@@ -14,6 +14,7 @@ with augmented graphics on a large display. This application is aimed toward med
 teachers. Virtual organs are augmented individually onto the body of the participants. Hence, eliminating the
 need of mannequins.
 
+![alt text](https://cdn.discordapp.com/attachments/1129408972374409239/1179718530829127700/ar_medical.png?ex=657acd7f&is=6568587f&hm=65d28c85f8421114c337d015c6dbf71ef085fbf355c97dcbccbb2a63abbbad89&)
 # Python Envirement
 Please make sure your python env has the following pakages installed
 opencv
