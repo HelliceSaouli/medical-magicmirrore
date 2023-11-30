@@ -24,3 +24,6 @@ dicom reader
 pyassimp
 mediapipe
 easyocr
+
+# Dataset
+I used the Visible Human Male head (1mm) availble free on the internet
