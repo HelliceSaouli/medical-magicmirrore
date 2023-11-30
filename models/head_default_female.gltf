@@ -1,0 +1,93 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.43",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "FemaleHead"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Head",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.15232548117637634,
+                    0.15232548117637634,
+                    0.15232548117637634,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.550000011920929
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "female head",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0
+                    },
+                    "indices" : 1,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 51257,
+            "max" : [
+                0.08789099752902985,
+                0.1823473870754242,
+                0.11378636211156845
+            ],
+            "min" : [
+                -0.0878848060965538,
+                -0.1389172375202179,
+                -0.11140278726816177
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5123,
+            "count" : 306912,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 615084,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 613824,
+            "byteOffset" : 615084
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1228908,
+            "uri" : "head_default_female.bin"
+        }
+    ]
+}
